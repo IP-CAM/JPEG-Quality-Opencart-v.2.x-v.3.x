@@ -7,9 +7,6 @@ The "Jpeg Quality" extension is for OpenCart CMS versions 2.x/3.x. It increases 
 * Increasing image quality from 90% (default value) to 100% during conversion.
 * Doesn't change source files due to OCMOD usage.
 
-## Links
-[underr.space](https://underr.space/notes/projects/project-0006.html)
-
 ## License
 Licensed under [MIT](https://git.io/JUOJl)
 
